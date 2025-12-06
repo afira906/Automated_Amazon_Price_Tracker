@@ -4,7 +4,9 @@
 
 <h2>Features</h2>
 
-<li>Track product prices in real time</li>
-<li>Email notification when price drops</li>
-<li>Works with any Amazon product link</li>
-<li>Easy to configure and run</li>
+<ul>
+  <li>Track product prices in real time</li>
+  <li>Email notification when price drops</li>
+  <li>Works with any Amazon product link</li>
+  <li>Easy to configure and run</li>
+</ul>
